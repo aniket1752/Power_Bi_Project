@@ -1,0 +1,16 @@
+=>Supplier Performance 
+=>logistic costs
+=>delivery times
+=>inventory levels
+
+_______________________________
+key features -
+-supplier performance matrics =>on timme deleivery , quality things
+-logistics and transportation cost analysis
+-Delivery time trends and analysis
+-Inventory levels and reorder points
+-Interactive filters for suppliers, products, and regions
+________________________________________
+
+
+
